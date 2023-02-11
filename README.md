@@ -1,4 +1,4 @@
-# Backgroundolor
+# Background color
 
 ---
 ## _Random background color (JS)_
